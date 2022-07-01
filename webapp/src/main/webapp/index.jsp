@@ -38,5 +38,12 @@
   <h1> RAJEEB </h1>
   <h1> Thankyou, Happy Learning </h1>
   <h1> welcome all of you </h1>
+   <h1> signing out from </h1>
+  <h1> AKBAR YOUSUFZAI </h1>
+  <h1> Thankyou, Happy Learning </h1>
+    <h1> signing out from </h1>
+  <h1> RAJEEB </h1>
+  <h1> Thankyou, Happy Learning </h1>
+  <h1> welcome all of you </h1>
   
 </form>
